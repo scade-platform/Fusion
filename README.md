@@ -141,7 +141,7 @@ SCADE editor provides the option to generate the Fusion proxies while creating F
   <tr>
    <td>6
    </td>
-   <td>FusionQR
+   <td>FusionCamera
    </td>
    <td><a href="https://github.com/scade-platform/FusionCamera">https://github.com/scade-platform/FusionCamera</a> 
    </td>
@@ -153,11 +153,42 @@ SCADE editor provides the option to generate the Fusion proxies while creating F
    </td>
    <td>FusionUtil
    </td>
-   <td> In Progress
+   <td> In Progress (<a href = "https://github.com/scade-platform/FusionUtils"> https://github.com/scade-platform/FusionUtils </a>) 
    </td>
    <td>Utility methods like share content to other apps, open an external URL, open email/phone/SMS and other utility methods.
    </td>
   </tr>
+  <tr>
+   <td>8
+   </td>
+   <td>FusionSharedPreferences
+   </td>
+   <td> In Progress (<a href = "https://github.com/scade-platform/FusionSharedPreferences"> https://github.com/scade-platform/FusionSharedPreferences </a>) 
+   </td>
+   <td>How to use UserDefaults in iOS and SharedPreferences in Android using Swift
+   </td>
+  </tr>
+  <tr>
+   <td>9
+   </td>
+   <td>FusionPayments
+   </td>
+   <td> In Progress (<a href = "https://github.com/scade-platform/FusionPayments"> https://github.com/scade-platform/FusionPayments </a>) 
+   </td>
+   <td>Cross-Platform Swift library to integrate Apple-Pay & Google-Pay
+   </td>
+  </tr>
+  <tr>
+   <td>10
+   </td>
+   <td>FusionLocalAuth
+   </td>
+   <td> In Progress (<a href = "https://github.com/scade-platform/FusionLocalAuth"> https://github.com/scade-platform/FusionLocalAuth </a>) 
+   </td>
+   <td>A cross-platform Fusion library to implement the local authentication using Biometry, or device password.
+   </td>
+  </tr>
+  
 </table>
 
 
