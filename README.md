@@ -1,12 +1,6 @@
 # Fusion
 
 
-
-
-
-
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
@@ -30,11 +24,11 @@ Fusion generates Swift Android API that maps to the Java Android API. So for eac
 
 
 `Swift-android` is the open-source repository where we have generated Swift APIs and methods for the Android SDK. You can easily use Swift Package Manager to integrate `swift-android` and call Android methods accordingly.  
-[https://github.com/scade-platform/swift-android](https://github.com/scade-platform/swift-android)  \
+[https://github.com/scade-platform/swift-android](https://github.com/scade-platform/swift-android)
 
 
-
-```
+### Add dependency in `Package.swift`
+```swift
 dependencies: [
         .package(name: "Android", url: "https://github.com/scade-platform/swift-android.git",.branch("android/24")) 
 ],
@@ -42,7 +36,7 @@ dependencies: [
 
 
 
-```
+```swift
 import Java
 import Android
 import AndroidOS
