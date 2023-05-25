@@ -178,17 +178,6 @@ SCADE editor provides the option to generate the Fusion proxies while creating F
    <td>Cross-Platform Swift library to integrate Apple-Pay & Google-Pay
    </td>
   </tr>
-  <tr>
-   <td>10
-   </td>
-   <td>FusionLocalAuth
-   </td>
-   <td> In Progress (<a href = "https://github.com/scade-platform/FusionLocalAuth"> https://github.com/scade-platform/FusionLocalAuth </a>) 
-   </td>
-   <td>A cross-platform Fusion library to implement the local authentication using Biometry, or device password.
-   </td>
-  </tr>
-  
 </table>
 
 
