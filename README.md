@@ -54,7 +54,7 @@ import AndroidNFC
 * No waiting time. Fusion Swift Android APIs are available when the Android Java API is available. You can use the feature right away
 * Availability for multiple versions of the Android APIs. Thanks to `SPM`, you can link against different versions of Android API, depending on your requirements. 
 
-## How Fusion generates Android API**
+## How Fusion generates Android API
 
 
 
