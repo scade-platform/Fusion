@@ -175,3 +175,13 @@ SCADE editor provides the option to generate the Fusion proxies while creating F
 </table>
 
 
+## Contributing
+
+We welcome contributions from the community! If you're passionate about Swift development and cross-platform apps, consider contributing to Fusion. You can contribute by:
+
+- Reporting issues 🐛
+- Enhancing documentation 📖
+- Submitting pull requests 🛠️
+- Sharing your experiences and insights 💡
+
+
